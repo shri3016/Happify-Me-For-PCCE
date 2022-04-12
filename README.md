@@ -18,3 +18,5 @@ Workflow:
 ![alt text](https://github.com/shri3016/Happify-Me-For-PCCE/blob/08c893587d1656e076eee3ff1e5bb21488fd0098/Happify%20Me/data/Happify%20Me%20WorkFlow_.jpg)
 
 
+One Emotion Display:
+![alt text](https://github.com/shri3016/Happify-Me-For-PCCE/blob/8a3f741f6ae39835fd4b60681ad7bbc709152f35/Happify%20Me/data/SS.PNG)
