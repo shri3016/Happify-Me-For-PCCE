@@ -14,4 +14,4 @@ If a student is sad infreuently then he/she can be given their favourite food to
 But If a student is sad frequently then the counselor may ask her/him the cause of frequent sadness and advise ways to heal.
 
 Workflow:
-![alt text](Happify Me/data/Happify Me WorkFlow_.jpg)
+![alt text](https://github.com/shri3016/Happify-Me-For-PCCE/blob/08c893587d1656e076eee3ff1e5bb21488fd0098/Happify%20Me/data/Happify%20Me%20WorkFlow_.jpg)
